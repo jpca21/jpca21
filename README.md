@@ -8,4 +8,4 @@ LINKEDIN: https://www.linkedin.com/in/jpca-chile/
 
 RESEARCHGATE: https://www.researchgate.net/profile/Juan-Cardenas-13
 
-Twitter @ChileanMicrobio
+Twitter [@ChileanMicrobio](https://twitter.com/ChileanMicrobio)
